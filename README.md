@@ -6,4 +6,4 @@ This is a example site for the Intro Front-end Web Develpment Course at the Flat
 
 # Contact
 
-email: sample@mail.com
+email: he3ers@gmail.com
